@@ -78,8 +78,4 @@ You can add:
 WebSlides is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 Use it to make something cool.
 
-### Credits
-
-- WebSlides was created by [@jlantunez](https://twitter.com/jlantunez) using [Cactus](https://github.com/eudicots/Cactus).
-- Thanks [@LuisSacristan](https://twitter.com/luissacristan) for the javascript code :)
-- Based on [SimpleSlides](https://github.com/jennschiffer/SimpleSlides), by [@JennSchiffer](https://twitter.com/jennschiffer).
+[![Stories in Ready](https://badge.waffle.io/progcodepreston/WebSlides.svg?label=ready&title=Ready)](http://waffle.io/progcodepreston/WebSlides)
